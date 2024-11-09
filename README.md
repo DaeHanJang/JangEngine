@@ -17,5 +17,5 @@ JangEngine은 기능별로 4가지로 분류합니다.
 LogicBase를 기초로 Logic2D 클래스를 통해 2D환경에 적합한 게임 로직을 구현합니다.</br>
 ![JangEngine_Logic drawio](https://github.com/user-attachments/assets/1691215f-df68-487b-a4c4-f53cf00fadff)
 
-4. ObjectTools
+4. ObjectTools</br>
 오브젝트에 구성에 적합한 기능을 갖고 있습니다.</br>
