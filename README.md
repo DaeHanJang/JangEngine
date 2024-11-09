@@ -1,7 +1,7 @@
 # JangEngine
 
-JangEngine은 C#, Unity를 사용하면서 유용한 함수들을 기능별로 분류하여 통합한 개인 라이브러리입니다.</br>횡스크롤
-JangEngine은 기능별로 4가지로 분류합니다.
+JangEngine은 C#, Unity를 사용하면서 유용한 함수들을 기능별로 분류하여 통합한 개인 라이브러리입니다.</br>
+JangEngine은 기능별로 4가지로 분류합니다.</br>
 
 1. Management</br>
 게임 관리에 관한 기능을 갖고 있습니다.</br>
