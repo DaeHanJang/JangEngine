@@ -19,5 +19,3 @@ LogicBase를 기초로 Logic2D 클래스를 통해 2D환경에 적합한 게임 
 
 4. ObjectTools</br>
 오브젝트에 구성에 적합한 뼈대를 갖고 있습니다.</br>
-
-</br><b>JangEngine은 공부하는 평생 업데이트되고 발전될 것입니다.</b>
